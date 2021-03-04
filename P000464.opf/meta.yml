@@ -1,15 +1,16 @@
-id: opecha:P000464
+id: P000464
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W1PD159391
   title: བོད་རིགས་ཀྱི་གཏམ་དཔེ། ༼བོད་རྒྱ་ཤན་སྦྱར།༽
-  volume:
+  author: ''
+  volumes:
     ee16f43f07864541a6313fbf9d357dff:
       image_group_id: I2PD19660
       title: Volume 1 of bod rigs kyi gtam dpe/
       volume_number: 1
       total_pages: 208
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: བོད་རིགས་ཀྱི་གཏམ་དཔེ། ༼བོད་རྒྱ་ཤན་སྦྱར།༽
   author: ''
